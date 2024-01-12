@@ -1,0 +1,66 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductoMVVMSQLite
+build_property.ProjectDir = C:\Users\david\Documents\VS Code\Microsoft .NET\BDInterna\ProductosSQLite\ProductosSQLite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/Views/DetalleProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.Views.DetalleProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DetalleProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DetalleProductoPage.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/Views/NuevoProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.Views.NuevoProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NuevoProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NuevoProductoPage.xaml
+
+[C:/Users/david/Documents/VS Code/Microsoft .NET/BDInterna/ProductosSQLite/ProductosSQLite/Views/ProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProductoMVVMSQLite.Views.ProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoPage.xaml
